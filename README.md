@@ -97,7 +97,7 @@ class Dhanush:
 
 <div align="center">
   <a href="https://github.com/dhanus013">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanus013&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanus013&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&hide_rank=false&show=reviews,prs_merged,discussions_started"/>
   </a>
   <a href="https://github.com/dhanus013">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanus013&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
@@ -125,7 +125,7 @@ class Dhanush:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanus013&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dhanus013&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8"/>
 </div>
 
 ---
@@ -170,10 +170,10 @@ class Dhanush:
 | [🩺 Breast Cancer Prediction (LSTM)](https://github.com/dhanus013) | Python · Keras · TensorFlow · Streamlit | Deep learning-based early risk detection for healthcare professionals |
 | [♻️ Waste Classification (YOLOv8)](https://github.com/dhanus013) | Python · YOLOv8 · OpenCV | Accurate waste segregation system for municipal bodies & waste firms |
 | [🛒 E-Commerce Web App](https://github.com/dhanus013) | MongoDB · Express.js · ReactJS · Node.js | Full MERN-stack retail platform with personalised recommendations |
-| [🏠 House Price Prediction (LSTM)](https://github.com/dhanus013) | Python · TensorFlow · LSTM | Time-series real estate price forecasting for investors & firms |
+| [🏠 House Price Prediction (LSTM)](https://github.com/dhanus013/House_price_prediction) | Python · TensorFlow · LSTM | Time-series real estate price forecasting for investors & firms |
 | [🏋️ Fitness Tracker Dashboard](https://github.com/dhanus013) | Python · Streamlit · Pandas · Plotly | Interactive fitness monitoring & visualisation dashboard |
 | [📰 Article Summarizer](https://github.com/dhanus013) | Python · Streamlit · Transformers · NLTK | NLP-powered auto-summarisation for students & researchers |
-| [🎂 Birthday Bot (RPA)](https://github.com/dhanus013) | UiPath · RPA Workflows | Automated birthday reminder system for HR & admin teams |
+| [🎂 Birthday Bot (RPA)](https://github.com/dhanus013/Birthday_bot_uipath) | UiPath · RPA Workflows | Automated birthday reminder system for HR & admin teams |
 
 </div>
 
@@ -185,7 +185,7 @@ class Dhanush:
 
 | 🏆 | Achievement | Details |
 |:--:|:------------|:--------|
-| 🎓 | **B.Tech – AI & Data Science** | Anna University · CGPA equiv. 80% · 2026 |
+| 🎓 | **B.Tech – AI & Data Science** | Anna University · 80% · 2026 |
 | 🤖 | **Generative AI in Action** | IBM SkillBuild Certification |
 | 🐍 | **Python for Medical Applications** | ICMR Certification |
 | 💻 | **Full Stack Development** | IBM Certification |
