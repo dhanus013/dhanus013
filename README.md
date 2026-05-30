@@ -95,12 +95,13 @@ class Dhanush:
 
 ## 📊 GitHub Stats
 
+<!-- github-readme-stats-fast.vercel.app = stable community mirror; public vercel instance is rate-limited -->
 <div align="center">
   <a href="https://github.com/dhanus013">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanus013&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&hide_rank=false&show=reviews,prs_merged,discussions_started"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=dhanus013&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
   <a href="https://github.com/dhanus013">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanus013&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dhanus013&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -124,8 +125,9 @@ class Dhanush:
 
 ## 🏆 Trophy Wall
 
+<!-- github-trophies.vercel.app = free fork by lucthienphong1120; original trophy vercel is 402 paywalled -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanus013&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8"/>
+  <img src="https://github-trophies.vercel.app/?username=dhanus013&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8"/>
 </div>
 
 ---
